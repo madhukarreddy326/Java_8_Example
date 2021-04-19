@@ -1,4 +1,4 @@
-package main.java.lambdaExample;
+package lambdaExample;
 
 @FunctionalInterface
 interface MyFunctionalInterface{
