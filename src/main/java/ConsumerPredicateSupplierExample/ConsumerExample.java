@@ -1,4 +1,4 @@
-package ConsumerPredicateProducerExample;
+package ConsumerPredicateSupplierExample;
 
 import java.util.List;
 
