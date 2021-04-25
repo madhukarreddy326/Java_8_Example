@@ -2,7 +2,7 @@ package ConsumerPredicateProducerExample;
 
 import java.util.List;
 
-public class ConsumerExample {
+public class ConsumerExample{
 
     public static void main(String[] args)
     {
