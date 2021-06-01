@@ -1,4 +1,4 @@
-package main.java.RealTimeExampl;
+package RealTimeExampl;
 
 /**
  * Employee

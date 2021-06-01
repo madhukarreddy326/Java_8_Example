@@ -1,4 +1,4 @@
-package main.java.RealTimeExampl;
+package RealTimeExampl;
 
 import java.util.ArrayList;
 import java.util.List;
